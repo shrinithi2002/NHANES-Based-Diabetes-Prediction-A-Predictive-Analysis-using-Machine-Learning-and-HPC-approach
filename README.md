@@ -1,0 +1,2 @@
+# NHANES-Based-Diabetes-Prediction-A-Predictive-Analysis-using-Machine-Learning-and-HPC-approach
+This project leverages NHANES dataset, which provides extensive health and nutrition data for individuals in the U.S. The analysis focuses on predicting diabetes, where comprehensive data cleaning and exploratory analysis were performed, followed by the application and evaluation of multiple machine learning models, including HPC with PySpark.
